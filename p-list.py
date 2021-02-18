@@ -6,6 +6,13 @@ print('''
 \__,_/_____/\__/_/  
     # Thank you for use my tool #
        insta = d_5tr
+       
+ 000   11  
+0  00 111  
+0 0 0  11  
+00  0  11  
+ 000  11l1 
+           
 ''')
 from itertools import product
 import string
